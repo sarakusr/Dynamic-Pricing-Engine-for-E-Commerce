@@ -2,7 +2,7 @@
 Role: Data Scientist | Tools: Python, Pandas, XGBoost, Scikit-learn, Matplotlib
 Domain: Retail Pricing Optimization, Predictive Modeling
 
-Project Overview:
+# Project Overview:
 Built a machine learning-driven dynamic pricing engine to optimize product prices in a simulated e-commerce environment, aiming to maximize revenue by predicting demand responses to pricing strategies.
 
 Key Components:
